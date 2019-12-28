@@ -1,0 +1,13 @@
+body{
+	background: url("abc.jpg");
+	font-family: Nunito;
+	/*background-position:center;*/
+	background-size:cover;
+	color:white;
+}
+
+#lol span{
+	color:#eb8934;
+	font-size:50px;
+}
+
